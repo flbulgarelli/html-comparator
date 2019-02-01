@@ -1,0 +1,15 @@
+{
+  "name": "html-comparator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:flbulgarelli/html-comparator.git",
+  "author": "Franco Bulgarelli <franco@mumuki.org>",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "jsdom": "^13.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
